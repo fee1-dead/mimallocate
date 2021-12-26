@@ -1,0 +1,4 @@
+[submodule "mimallocate-sys/c_src"]
+	path = mimallocate-sys/c_src
+	url = https://github.com/microsoft/mimalloc.git
+	branch = dev-slice
